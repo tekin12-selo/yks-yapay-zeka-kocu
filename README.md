@@ -104,5 +104,5 @@ react / react-dom: Kullanıcı arayüzü kütüphanesi
 
 tailwindcss: Hızlı ve modern CSS iskeleti
 
-recharts: Gelişim grafikleri için veri görselleştirme kütüphanesi
+recharts: Gelişim grafikleri için veri görselleştirme kütüphanesi.
 
